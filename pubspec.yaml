@@ -14,7 +14,7 @@ dependencies:
   http: ^0.12.0
 
   json_annotation: ^0.2.3
-  shared_preferences: ^0.4.2
+  shared_preferences: ^0.5.3
   flutter_webview_plugin: ^0.3.0+2
   flutter_pagewise: 1.0.0
   intl: ^0.15.6
