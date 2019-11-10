@@ -20,7 +20,7 @@ dependencies:
   intl: ^0.15.6
   loadmore: ^1.0.1
   jvanila_flutter:
-    git: git://github.com/pavan2you/flutter-mvp-framework
+    git: git://github.com/metaflowltd/flutter-mvp-framework
 #    path: ../flutter-mvp-framework
 
 dev_dependencies:
